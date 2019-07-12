@@ -2,9 +2,9 @@ package com.monotonic.collections;
 
 public class ProductFixtures {
 	
-	public static Product door = new Product("Wooden Door", 35);
-	public static Product floorPanel= new Product("Floor Panel", 25);
-	public static Product window = new Product("Glass Window", 10);
+	public static Product door = new Product(1, "Wooden Door", 35);
+	public static Product floorPanel= new Product(2, "Floor Panel", 25);
+	public static Product window = new Product(3, "Glass Window", 10);
 	
 
 }
