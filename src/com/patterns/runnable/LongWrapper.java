@@ -9,7 +9,9 @@ public class LongWrapper {
 	}
 
 	public long getValue() {
+		synchronized(key) {
 		return l;
+	}
 	}
 	public void incrementValue() {
 		synchronized(key) {
