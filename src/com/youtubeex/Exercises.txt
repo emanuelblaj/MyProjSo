@@ -1,0 +1,9 @@
+Ex 1 Phone No: Write a program that creates and prints a random phone number of the form XXX-XXX-XXXX.
+Include the dashes in the output. Do not let the first three digits contain an 8 or 9
+(but don't be more restrictive than that), and make sure that the second set of three digits is not greater than 742.
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+**********************************************************************************************
+
+Ex 2 Sum of Cubes : Write a program that prints the sum of cubes.
+Prompt for and read two integer values and print the sum of each value raised to the third power.
