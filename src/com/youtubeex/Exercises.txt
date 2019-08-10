@@ -7,3 +7,29 @@ Include the dashes in the output. Do not let the first three digits contain an 8
 
 Ex 2 Sum of Cubes : Write a program that prints the sum of cubes.
 Prompt for and read two integer values and print the sum of each value raised to the third power.
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+********************************************************************************************** 
+
+Ex 3 Using Class And Object : Write a program that prompts for and reads the user's first and last name(separately).
+Then print a string composed of the first letter of the user's first name, followed by the first five characters of
+the user's last name, followed by a random number in the range 10 to 99. Assume the last name is at least five letters long.
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+**********************************************************************************************
+
+Ex 4 Distance Betweem two points : Write an application that reads the(x, y) coordinates for two points.
+Compute the distance between the two points using a formula.
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+**********************************************************************************************
+
+Ex 5 Volume and Surface of Sphere : Write an app that reads the radius of a sphere and prints its volume and surface area. 
+Print the output to four decimal places.
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+**********************************************************************************************
+
+Ex 6 Heron's Formula : Write an app that reads the lengths of the sides of a triangle from the user. Compute the area of the traingle 
+using Heron's formula which 's' represents half of the perimeter of the triangle, and 'a' and 'b' and 'c' are the lengths of the three
+sides. Print area to three decimal places.

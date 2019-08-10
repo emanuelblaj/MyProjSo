@@ -13,7 +13,7 @@ public class StivaEx {
 		a = new char[n];
 		b = new char[n];
 		Random r = new Random();
-		System.out.println(r.nextInt());
+	
 		for(c = 'a', i = 0; i < n; i ++, c++) {
 			a[i] = c;
 			na = 0;
